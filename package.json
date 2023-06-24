@@ -1,5 +1,5 @@
 {
-  "name": "chii",
+  "name": "@flysoftbeta/chii",
   "version": "1.9.0",
   "description": "Chrome devtools framework",
   "main": "./server/index.js",
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liriliri/chii.git"
+    "url": "git+https://github.com/FlysoftBeta/chii.git"
   },
   "keywords": [
     "devtools"
@@ -34,9 +34,9 @@
   "author": "redhoodsu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/liriliri/chii/issues"
+    "url": "https://github.com/FlysoftBeta/chii/issues"
   },
-  "homepage": "https://github.com/liriliri/chii#readme",
+  "homepage": "https://github.com/FlysoftBeta/chii#readme",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.60.0",
     "@typescript-eslint/parser": "^5.60.0",
