@@ -1,6 +1,9 @@
 {
   "name": "@flysoftbeta/chii",
-  "version": "1.9.0",
+  "version": "1.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "Chrome devtools framework",
   "main": "./server/index.js",
   "bin": "./bin/chii.js",
